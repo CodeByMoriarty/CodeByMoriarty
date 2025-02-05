@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=CodeByMoriarty&style=flat-square)
 <img width="100%" src="https://github.com/CodeByMoriarty/CodeByMoriarty/blob/main/github-header-image.png" alt="my banner">
 
 I'm a Pull Stack Developer I just pull things off the Internet and put it into my Code.
