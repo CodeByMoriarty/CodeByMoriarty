@@ -24,10 +24,6 @@ I'm a Pull Stack Developer I just pull things off the Internet and put it into m
 <a href="https://linkedin.com/in/andrewlacambra"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-</p>
-
 ## 🏆 GitHub Trophies
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=CodeByMoriarty">
