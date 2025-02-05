@@ -1,9 +1,12 @@
 # Hi there 👋, My name is Andrew Lacambra
 
+<img width="100%" src="https://github.com/CodeByMoriarty/CodeByMoriarty/blob/main/github-header-image.png" alt="my banner">
+
 I'm a Pull Stack Developer I just pull things off the Internet and put it into my Code.
 
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on UsapTayo</p>
+<p>🌱 I'm currently learning Java,Python,Web Penetration Testing</p>
 
 ## 💻 Skills
 <p>
@@ -20,6 +23,7 @@ I'm a Pull Stack Developer I just pull things off the Internet and put it into m
 
 ## 👥 Connect With Me
 <p>
+<a href="https://linkedin.com/in/andrewlacambra"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
 ## 🌟 Github Badges
@@ -33,14 +37,8 @@ I'm a Pull Stack Developer I just pull things off the Internet and put it into m
 
 ## 📊 Github Status
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=CodeByMoriarty"><p>
-
 <p><img src="https://github-readme-stats.vercel.app/api?username=CodeByMoriarty&show_icons=true"><p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMoriarty&layout=compact"><p>
 
-<p><img src="https://metrics.lecoq.io/CodeByMoriarty"><p>
-
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByMoriarty"><p>
-
-<p><img src="https://visitcount.itsvg.in/api?id=CodeByMoriarty&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
