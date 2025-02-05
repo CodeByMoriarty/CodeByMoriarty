@@ -2,7 +2,7 @@
 
 I'm a Pull Stack Developer I just pull things off the Internet and put it into my Code.
 
-![](https://komarev.com/ghpvc/?username=CodeByMoriarty&style=flat-square)
+![](https://komarev.com/ghpvc/?username=CodeByMoriarty&style=for-the-badge?brightgreen)
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on UsapTayo</p>
 <p>🌱 I'm currently learning Java,Python,Web Penetration Testing</p>
