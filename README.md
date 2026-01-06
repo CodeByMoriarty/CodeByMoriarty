@@ -9,18 +9,21 @@
 ║ ██║  ██║██║ ╚████║██████╔╝██║  ██║███████╗╚███╔███╔╝                        ║
 ║ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚══╝╚══╝                         ║
 ║                                                                             ║
-║ > ACCESS: GRANTED                                                           ║
-║ > CLEARANCE: ROOT                                                           ║
-║ > USER: [CLASSIFIED]                                                        ║
-║ > STATUS: ACTIVE                                                            ║
-║ > PROJECT: UsapTayo                                                         ║
+║ > SYSTEM ACCESS: GRANTED                                                    ║
+║ > SECURITY CLEARANCE: OMEGA BLACK                                           ║
+║ > OPERATIVE ID: [REDACTED]                                                  ║
+║ > DEPLOYMENT STATUS: ACTIVE SINCE 2024                                      ║
+║ > PRIMARY DIRECTIVE: INFILTRATE // DOMINATE // EXECUTE                      ║
+║ > SECONDARY DIRECTIVE: EXPLOIT BUGS // SHIP FEATURES // BREAK PRODUCTION    ║
 ╚═════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CodeByMoriarty&style=flat-square&color=red)
-![Status](https://img.shields.io/badge/STATUS-ACTIVE-green?style=flat-square)
+![Threat Level](https://img.shields.io/badge/THREAT%20LEVEL-CRITICAL-red?style=flat-square)
+![Status](https://img.shields.io/badge/STATUS-WEAPONIZED-green?style=flat-square)
+![Clearance](https://img.shields.io/badge/CLEARANCE-OMEGA-black?style=flat-square)
 
 </div>
 
@@ -57,9 +60,9 @@ declare -A ARSENAL=(
 )
 
 # OPERATIONAL STATUS
-echo "[*] Status: Active"
-echo "[*] Uptime: 24/7"
-echo "[*] Mode: Development"
+echo "[!] DEFCON 1: Active Deployment"
+echo "[!] Caffeine Protocol: ENGAGED"
+echo "[!] Sleep Status: OVERRIDDEN"
 ```
 
 ```bash
@@ -130,15 +133,16 @@ drwx------ 12 root root 4096 Jan 06 2025 ..
 
 ```log
 UID        PID  %CPU %MEM    VSZ   RSS TTY   STAT START   TIME COMMAND
-root      1337  99.9  85.0 999999 85000 pts/0 Sl   00:00  24/7 \_ /opt/mission/UsapTayo
-root      1338  15.2  20.5 777777 20500 pts/1 Sl   00:00    ∞  \_ /usr/bin/training --module=penetration
-root      1339  10.1  15.2 666666 15200 pts/2 Sl   00:00    ∞  \_ /usr/bin/research --mode=active
-root      1340   5.5  10.1 555555 10100 pts/3 Sl   00:00    ∞  \_ /usr/bin/development --continuous
-root      1341   0.1   2.5 111111  2500 pts/4 S    00:00    ∞  \_ /usr/bin/vim
+root      1337  99.9  85.0 999999 85000 pts/0 Sl   00:00  24/7 \_ /opt/mission/UsapTayo --priority=CRITICAL
+root      1338  15.2  20.5 777777 20500 pts/1 Sl   00:00    ∞  \_ /usr/bin/training --module=penetration --level=advanced
+root      1339  10.1  15.2 666666 15200 pts/2 Sl   00:00    ∞  \_ /usr/bin/research --mode=deep-dive --threads=max
+root      1340   5.5  10.1 555555 10100 pts/3 Sl   00:00    ∞  \_ /usr/bin/caffeine --dosage=lethal --loop=infinite
+root      1341   0.1   2.5 111111  2500 pts/4 S    00:00    ∞  \_ /usr/bin/vim --mode=god
 
-[SYSTEM] All processes running
-[SYSTEM] Network secure
-[SYSTEM] Status: Operational
+[ALERT] All systems operational
+[ALERT] Zero vulnerabilities detected
+[ALERT] Network: SECURE
+[ALERT] Production: DOMINATED
 ```
 
 ```bash
