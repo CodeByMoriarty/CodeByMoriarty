@@ -3,8 +3,9 @@
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                                                                           ║
-║   > I'm a Pull Stack Developer                                           ║
-║   > I just pull things off the Internet and put it into my Code.         ║
+║   > SYSTEM ACCESS GRANTED                                                 ║
+║   > USER: Pull Stack Developer                                            ║
+║   > STATUS: Pulling code from the Internet since 2024                     ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -15,54 +16,79 @@
 
 </div>
 
-## `$ whoami`
+```bash
+┌──(andrew㉿github)-[~]
+└─$ whoami
+```
+
+## `$ cat /etc/profile.d/andrew.sh`
 
 ```bash
-andrew@github:~$ cat about.txt
+#!/bin/bash
+
+export NAME="Andrew Lacambra"
+export ROLE="Full Stack Developer"
+export LOCATION="/dev/world"
+export CURRENT_PROJECT="UsapTayo"
+
+# Learning Path
+declare -a LEARNING=(
+    "Java"
+    "Python" 
+    "Web Penetration Testing"
+)
+
+# Skill Tree
+declare -A SKILLS=(
+    [languages]="Java Python JavaScript PHP HTML5"
+    [frameworks]="Laravel Node.js TailwindCSS"
+    [databases]="MySQL"
+    [tools]="Git Linux VSCode"
+)
+
+echo "[*] System Status: Coding..."
+echo "[*] Coffee Level: Maximum"
+echo "[*] Stack Overflow Tabs: 47 open"
 ```
 
-```yaml
-name: Andrew Lacambra
-role: Full Stack Developer
-location: /dev/world
-current_project: UsapTayo
-learning: 
-  - Java
-  - Python
-  - Web Penetration Testing
-skills:
-  languages: [Java, Python, JavaScript, PHP, HTML5]
-  frameworks: [Laravel, Node.js, TailwindCSS]
-  databases: [MySQL]
-  tools: [Git, Linux, VS Code]
-status: Coding...
+```bash
+┌──(andrew㉿github)-[~]
+└─$ tree skills/
 ```
 
-## `$ ls skills/`
+## `$ ls -la ~/skills/`
 
+```console
+drwxr-xr-x  5 andrew andrew 4096 Jan 06 2025 .
+drwxr-xr-x 12 andrew andrew 4096 Jan 06 2025 ..
+
+[languages]
+  -rwxr-xr-x 1 andrew andrew  2048 Jan 05 2025 java.class
+  -rwxr-xr-x 1 andrew andrew  1024 Jan 05 2025 python.py
+  -rwxr-xr-x 1 andrew andrew  1536 Jan 05 2025 javascript.js
+  -rwxr-xr-x 1 andrew andrew  1792 Jan 05 2025 php.php
+  -rwxr-xr-x 1 andrew andrew   512 Jan 05 2025 html5.html
+
+[frameworks]
+  drwxr-xr-x 2 andrew andrew 4096 Jan 05 2025 laravel/
+  drwxr-xr-x 2 andrew andrew 4096 Jan 05 2025 nodejs/
+  drwxr-xr-x 2 andrew andrew 4096 Jan 05 2025 tailwindcss/
+
+[databases]
+  -rwxr-xr-x 1 andrew andrew  3072 Jan 05 2025 mysql.sql
+
+[tools]
+  -rwxr-xr-x 1 andrew andrew  4096 Jan 05 2025 git
+  -rwxr-xr-x 1 andrew andrew  8192 Jan 05 2025 linux
+  -rwxr-xr-x 1 andrew andrew  2048 Jan 05 2025 vscode
 ```
-📁 languages/
-├── java.class
-├── python.py
-├── javascript.js
-├── php.php
-└── html5.html
 
-📁 frameworks/
-├── laravel/
-├── nodejs/
-└── tailwindcss/
-
-📁 databases/
-└── mysql.sql
-
-📁 tools/
-├── git
-├── linux
-└── vscode
+```bash
+┌──(andrew㉿github)-[~]
+└─$ cat tech_stack.conf
 ```
 
-## `$ cat tech_stack.sh`
+## `$ grep -r "technologies" ~/.config/`
 
 <div align="center">
 
@@ -83,32 +109,37 @@ status: Coding...
 
 </div>
 
-## `$ git log --stat`
-
-<div align="center">
-
-<a href="https://github.com/CodeByMoriarty">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeByMoriarty&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMoriarty&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</a>
-
-</div>
-
 ```bash
-andrew@github:~$ git status
-On branch main
-Your branch is up to date with 'origin/main'.
-
-Nothing to commit, working tree clean ✓
+┌──(andrew㉿github)-[~]
+└─$ systemctl status coding.service
 ```
 
-## `$ ./connect.sh`
+## `$ ps aux | grep -i "current_activity"`
+
+```log
+USER       PID  %CPU %MEM    TIME COMMAND
+andrew    1337  99.9  85.0   24/7 /usr/bin/coding --project=UsapTayo
+andrew    1338   5.2  10.5   ∞    /usr/bin/learning --mode=penetration-testing
+andrew    1339   3.1   8.2   ∞    /usr/bin/stackoverflow --tabs=47
+andrew    1340   0.5   2.1   ∞    /usr/bin/coffee --level=maximum
+
+[INFO] All processes running smoothly
+[INFO] No errors detected
+[INFO] Stack Overflow connection: STABLE
+```
+
+```bash
+┌──(andrew㉿github)-[~]
+└─$ ./establish_connection.sh
+```
+
+## `$ netstat -an | grep ESTABLISHED`
 
 <div align="center">
 
 ```bash
-┌─[andrew@github]─[~]
-└──╼ $ echo "Let's connect!"
+tcp    0    0  andrew@github:443  ->  linkedin.com:443     ESTABLISHED
+tcp    0    0  andrew@github:443  ->  github.com:443       ESTABLISHED
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewlacambra)
@@ -120,7 +151,9 @@ Nothing to commit, working tree clean ✓
 
 <div align="center">
 
+```bash
+┌──(root㉿github)-[~]
+└─# echo "Talk is cheap. Show me the code." - Linus Torvalds
 ```
-[root@github ~]# echo "Talk is cheap. Show me the code." - Linus Torvalds
-```
+
 </div>
