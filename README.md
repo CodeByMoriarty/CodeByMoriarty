@@ -87,12 +87,20 @@ status: Coding...
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=CodeByMoriarty&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=8" />
-<img width="48%" src="https://streak-stats.demolab.com?user=CodeByMoriarty&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=8" />
-
-<img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMoriarty&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8&langs_count=10" />
+<a href="https://github.com/CodeByMoriarty">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeByMoriarty&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMoriarty&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</a>
 
 </div>
+
+```bash
+andrew@github:~$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Nothing to commit, working tree clean ✓
+```
 
 ## `$ ./connect.sh`
 
@@ -115,7 +123,4 @@ status: Coding...
 ```
 [root@github ~]# echo "Talk is cheap. Show me the code." - Linus Torvalds
 ```
-
-<sub>⚡ Powered by caffeine and Stack Overflow</sub>
-
 </div>
