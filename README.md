@@ -9,12 +9,9 @@
 ║ ██║  ██║██║ ╚████║██████╔╝██║  ██║███████╗╚███╔███╔╝                        ║
 ║ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚══╝╚══╝                         ║
 ║                                                                             ║
-║ > SYSTEM ACCESS: GRANTED                                                    ║
-║ > SECURITY CLEARANCE: OMEGA BLACK                                           ║
-║ > OPERATIVE ID: [REDACTED]                                                  ║
-║ > DEPLOYMENT STATUS: ACTIVE SINCE 2024                                      ║
-║ > PRIMARY DIRECTIVE: INFILTRATE // DOMINATE // EXECUTE                      ║
-║ > SECONDARY DIRECTIVE: EXPLOIT BUGS // SHIP FEATURES // BREAK PRODUCTION    ║
+║ > Full Stack Developer                                                      ║
+║ > Currently: UsapTayo                                                       ║
+║ > Learning: Java | Python | Web Pentesting                                  ║
 ╚═════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -25,82 +22,73 @@
 </div>
 
 ```bash
-┌──(root㉿CLASSIFIED)-[~]
-└─# whoami
+┌──(andrew㉿github)-[~]
+└─$ whoami
 ```
 
-## `# cat /root/.classified/dossier.enc`
+## `$ cat profile.sh`
 
 ```bash
 #!/bin/bash
-# CLASSIFIED - EYES ONLY
 
-export OPERATIVE="Andrew Lacambra"
-export CODENAME="Moriarty"
-export CLASSIFICATION="Full Stack Operative"
-export SECTOR="/dev/darknet"
-export ACTIVE_OP="UsapTayo"
+export NAME="Andrew Lacambra"
+export ROLE="Full Stack Developer"
+export CURRENT_PROJECT="UsapTayo"
 
-# TRAINING MODULES [IN PROGRESS]
-declare -a TRAINING_MODULES=(
-    "[████████░░] Java Exploitation"
-    "[██████░░░░] Python Weaponization" 
-    "[███████░░░] Web Infiltration & Pentesting"
+# Currently Learning
+declare -a LEARNING=(
+    "Java"
+    "Python" 
+    "Web Penetration Testing"
 )
 
-# ARSENAL MANIFEST
-declare -A ARSENAL=(
-    [WEAPONS]="Java Python JavaScript PHP HTML5"
-    [FRAMEWORKS]="Laravel Node.js TailwindCSS"
-    [INTELLIGENCE]="MySQL"
-    [TACTICAL_GEAR]="Git Linux VSCode"
+# Tech Stack
+declare -A STACK=(
+    [languages]="Java Python JavaScript PHP HTML5"
+    [frameworks]="Laravel Node.js TailwindCSS"
+    [databases]="MySQL"
+    [tools]="Git Linux VSCode"
 )
-
-# OPERATIONAL STATUS
-echo "[!] DEFCON 1: Active Deployment"
-echo "[!] Caffeine Protocol: ENGAGED"
-echo "[!] Sleep Status: OVERRIDDEN"
 ```
 
 ```bash
-┌──(root㉿CLASSIFIED)-[/opt/arsenal]
-└─# ls -lah
+┌──(andrew㉿github)-[~]
+└─$ tree skills/
 ```
 
-## `# find /opt/arsenal -type f -executable`
+## `$ ls -la ~/skills/`
 
 ```console
-drwx------ 5 root root 4096 Jan 06 2025 .
-drwx------ 12 root root 4096 Jan 06 2025 ..
--rw------- 1 root root   88 Jan 06 2025 .access_token
+drwxr-xr-x  5 andrew andrew 4096 Jan 06 2025 .
+drwxr-xr-x 12 andrew andrew 4096 Jan 06 2025 ..
 
-[WEAPONS/LANGUAGES]
-  -rwx------ 1 root root  2048 Jan 05 2025 java.class        [LOADED]
-  -rwx------ 1 root root  1024 Jan 05 2025 python.py         [ARMED]
-  -rwx------ 1 root root  1536 Jan 05 2025 javascript.js     [READY]
-  -rwx------ 1 root root  1792 Jan 05 2025 php.php           [STANDBY]
-  -rwx------ 1 root root   512 Jan 05 2025 html5.html        [ACTIVE]
+[languages]
+  -rwxr-xr-x 1 andrew andrew  2048 Jan 05 2025 java.class
+  -rwxr-xr-x 1 andrew andrew  1024 Jan 05 2025 python.py
+  -rwxr-xr-x 1 andrew andrew  1536 Jan 05 2025 javascript.js
+  -rwxr-xr-x 1 andrew andrew  1792 Jan 05 2025 php.php
+  -rwxr-xr-x 1 andrew andrew   512 Jan 05 2025 html5.html
 
-[FRAMEWORKS/EXPLOITS]
-  drwx------ 2 root root 4096 Jan 05 2025 laravel/          [DEPLOYED]
-  drwx------ 2 root root 4096 Jan 05 2025 nodejs/           [RUNNING]
-  drwx------ 2 root root 4096 Jan 05 2025 tailwindcss/      [ENGAGED]
+[frameworks]
+  drwxr-xr-x 2 andrew andrew 4096 Jan 05 2025 laravel/
+  drwxr-xr-x 2 andrew andrew 4096 Jan 05 2025 nodejs/
+  drwxr-xr-x 2 andrew andrew 4096 Jan 05 2025 tailwindcss/
 
-[INTELLIGENCE/DATABASES]
-  -rwx------ 1 root root  3072 Jan 05 2025 mysql.sql        [ENCRYPTED]
+[databases]
+  -rwxr-xr-x 1 andrew andrew  3072 Jan 05 2025 mysql.sql
 
-[TACTICAL/TOOLS]
-  -rwx------ 1 root root  4096 Jan 05 2025 git              [STEALTH MODE]
-  -rwx------ 1 root root  8192 Jan 05 2025 linux            [ROOT ACCESS]
-  -rwx------ 1 root root  2048 Jan 05 2025 vscode           [INTERFACE]
+[tools]
+  -rwxr-xr-x 1 andrew andrew  4096 Jan 05 2025 git
+  -rwxr-xr-x 1 andrew andrew  8192 Jan 05 2025 linux
+  -rwxr-xr-x 1 andrew andrew  2048 Jan 05 2025 vscode
 ```
 
 ```bash
-┌──(root㉿CLASSIFIED)-[~]
-└─# cat /etc/badges.conf
+┌──(andrew㉿github)-[~]
+└─$ cat tech_stack.conf
 ```
 
-## `# grep -r "CAPABILITIES" /root/.arsenal/`
+## `$ grep -r "technologies" ~/.config/`
 
 <div align="center">
 
@@ -122,71 +110,36 @@ drwx------ 12 root root 4096 Jan 06 2025 ..
 </div>
 
 ```bash
-┌──(root㉿CLASSIFIED)-[~]
-└─# systemctl status --all | grep andrew
+┌──(andrew㉿github)-[~]
+└─$ ps aux | grep andrew
 ```
 
-## `# ps -aux --forest | grep "CRITICAL"`
+## `$ htop`
 
 ```log
-UID        PID  %CPU %MEM    VSZ   RSS TTY   STAT START   TIME COMMAND
-root      1337  99.9  85.0 999999 85000 pts/0 Sl   00:00  24/7 \_ /opt/mission/UsapTayo --priority=CRITICAL
-root      1338  15.2  20.5 777777 20500 pts/1 Sl   00:00    ∞  \_ /usr/bin/training --module=penetration --level=advanced
-root      1339  10.1  15.2 666666 15200 pts/2 Sl   00:00    ∞  \_ /usr/bin/research --mode=deep-dive --threads=max
-root      1340   5.5  10.1 555555 10100 pts/3 Sl   00:00    ∞  \_ /usr/bin/caffeine --dosage=lethal --loop=infinite
-root      1341   0.1   2.5 111111  2500 pts/4 S    00:00    ∞  \_ /usr/bin/vim --mode=god
-
-[ALERT] All systems operational
-[ALERT] Zero vulnerabilities detected
-[ALERT] Network: SECURE
-[ALERT] Production: DOMINATED
+PID   USER     %CPU %MEM    TIME COMMAND
+1337  andrew   45.2  12.5   24/7 /opt/projects/UsapTayo
+1338  andrew   8.5   5.2     ∞  /usr/bin/learning --java
+1339  andrew   6.1   4.8     ∞  /usr/bin/learning --python
+1340  andrew   3.2   2.1     ∞  /usr/bin/coding
+1341  andrew   0.5   1.2     ∞  /usr/bin/vim
 ```
 
 ```bash
-┌──(root㉿CLASSIFIED)-[~]
-└─# ./initiate_contact.sh --secure
+┌──(andrew㉿github)-[~]
+└─$ ./connect.sh
 ```
 
-## `# netstat -tupln | grep "DANGEROUS"`
+## `$ netstat -an | grep ESTABLISHED`
 
 <div align="center">
 
 ```bash
-tcp    0    0  CLASSIFIED:443    ->  linkedin.com:443       ESTABLISHED  [ENCRYPTED]
-tcp    0    0  CLASSIFIED:443    ->  github.com:443         ESTABLISHED  [SECURE]
-tcp    0    0  127.0.0.1:1337    ->  localhost:31337        LISTENING    [BACKDOOR]
+tcp    0    0  andrew@github:443  ->  linkedin.com:443     ESTABLISHED
+tcp    0    0  andrew@github:443  ->  github.com:443       ESTABLISHED
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewlacambra)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CodeByMoriarty)
-
-</div>
-
----
-
-<div align="center">
-
-```bash
-┌──(root㉿CLASSIFIED)-[~]
-└─# cat /var/log/final.log
-```
-
-```log
-[2025-01-06 23:59:59] SYSTEM INITIALIZED
-[2025-01-06 23:59:59] ROOT ACCESS GRANTED
-[2025-01-06 23:59:59] DEPLOYING PAYLOAD...
-[2025-01-06 23:59:59] INJECTION SUCCESSFUL
-[2025-01-06 23:59:59] ALL SYSTEMS COMPROMISED
-[2025-01-06 23:59:59] MISSION STATUS: ONGOING
-```
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-█ CLASSIFIED // MORIARTY OPERATIONS                                       █
-█ ACCESS LEVEL: ROOT                                                      █
-█ ENCRYPTION: AES-256                                                     █
-█ STATUS: OPERATIONAL                                                     █
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
 
 </div>
