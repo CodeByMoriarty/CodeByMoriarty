@@ -21,9 +21,6 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CodeByMoriarty&style=flat-square&color=red)
-![Threat Level](https://img.shields.io/badge/THREAT%20LEVEL-CRITICAL-red?style=flat-square)
-![Status](https://img.shields.io/badge/STATUS-WEAPONIZED-green?style=flat-square)
-![Clearance](https://img.shields.io/badge/CLEARANCE-OMEGA-black?style=flat-square)
 
 </div>
 
