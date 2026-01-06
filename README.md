@@ -1,12 +1,25 @@
- <img width="100%" src="https://github.com/CodeByMoriarty/CodeByMoriarty/blob/main/github-header-image.png" alt="my banner">
+<img width="100%" src="https://github.com/CodeByMoriarty/CodeByMoriarty/blob/main/github-header-image.png" alt="my banner">
 
-I'm a Pull Stack Developer I just pull things off the Internet and put it into my Code.
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=CodeByMoriarty&style=for-the-badge&color=ff69b4)
+### I'm a Pull Stack Developer 
+*I just pull things off the Internet and put it into my Code.* 😄
 
-## 💫 Liitle Bit More About Me
-<p>🔭 I'm currently working on UsapTayo</p>
-<p>🌱 I'm currently learning Java,Python,Web Penetration Testing</p>
+![Profile Views](https://komarev.com/ghpvc/?username=CodeByMoriarty&style=for-the-badge&color=ff69b4)
+
+</div>
+
+---
+
+## 💫 A Little Bit More About Me
+
+🔭 **Currently working on:** UsapTayo
+
+🌱 **Currently learning:** Java, Python, Web Penetration Testing
+
+💡 **Fun fact:** I turn Stack Overflow answers into production code!
+
+---
 
 ## 💻 Tech Stack
 
