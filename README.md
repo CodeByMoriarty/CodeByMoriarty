@@ -1,94 +1,109 @@
 <img width="100%" src="https://github.com/CodeByMoriarty/CodeByMoriarty/blob/main/github-header-image.png" alt="my banner">
 
 ```ascii
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   > SYSTEM ACCESS GRANTED                                                 ║
-║   > USER: Pull Stack Developer                                            ║
-║   > STATUS: Pulling code from the Internet since 2024                     ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════════════════════════════════╗
+║  █████╗ ███╗   ██╗██████╗ ██████╗ ███████╗██╗    ██╗                        ║
+║ ██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔════╝██║    ██║                        ║
+║ ███████║██╔██╗ ██║██║  ██║██████╔╝█████╗  ██║ █╗ ██║                        ║
+║ ██╔══██║██║╚██╗██║██║  ██║██╔══██╗██╔══╝  ██║███╗██║                        ║
+║ ██║  ██║██║ ╚████║██████╔╝██║  ██║███████╗╚███╔███╔╝                        ║
+║ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚══╝╚══╝                         ║
+║                                                                             ║
+║ > SYSTEM ACCESS: GRANTED                                                    ║
+║ > SECURITY CLEARANCE: OMEGA BLACK                                           ║
+║ > OPERATIVE ID: [REDACTED]                                                  ║
+║ > DEPLOYMENT STATUS: ACTIVE SINCE 2024                                      ║
+║ > PRIMARY DIRECTIVE: INFILTRATE // DOMINATE // EXECUTE                      ║
+║ > SECONDARY DIRECTIVE: EXPLOIT BUGS // SHIP FEATURES // BREAK PRODUCTION    ║
+╚═════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=CodeByMoriarty&style=flat-square&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=CodeByMoriarty&style=flat-square&color=red)
+![Threat Level](https://img.shields.io/badge/THREAT%20LEVEL-CRITICAL-red?style=flat-square)
+![Status](https://img.shields.io/badge/STATUS-WEAPONIZED-green?style=flat-square)
+![Clearance](https://img.shields.io/badge/CLEARANCE-OMEGA-black?style=flat-square)
 
 </div>
 
 ```bash
-┌──(andrew㉿github)-[~]
-└─$ whoami
+┌──(root㉿CLASSIFIED)-[~]
+└─# whoami
 ```
 
-## `$ cat /etc/profile.d/andrew.sh`
+## `# cat /root/.classified/dossier.enc`
 
 ```bash
 #!/bin/bash
+# CLASSIFIED - EYES ONLY
 
-export NAME="Andrew Lacambra"
-export ROLE="Full Stack Developer"
-export LOCATION="/dev/world"
-export CURRENT_PROJECT="UsapTayo"
+export OPERATIVE="Andrew Lacambra"
+export CODENAME="Moriarty"
+export CLASSIFICATION="Full Stack Operative"
+export SECTOR="/dev/darknet"
+export ACTIVE_OP="UsapTayo"
 
-# Learning Path
-declare -a LEARNING=(
-    "Java"
-    "Python" 
-    "Web Penetration Testing"
+# TRAINING MODULES [IN PROGRESS]
+declare -a TRAINING_MODULES=(
+    "[████████░░] Java Exploitation"
+    "[██████░░░░] Python Weaponization" 
+    "[███████░░░] Web Infiltration & Pentesting"
 )
 
-# Skill Tree
-declare -A SKILLS=(
-    [languages]="Java Python JavaScript PHP HTML5"
-    [frameworks]="Laravel Node.js TailwindCSS"
-    [databases]="MySQL"
-    [tools]="Git Linux VSCode"
+# ARSENAL MANIFEST
+declare -A ARSENAL=(
+    [WEAPONS]="Java Python JavaScript PHP HTML5"
+    [FRAMEWORKS]="Laravel Node.js TailwindCSS"
+    [INTELLIGENCE]="MySQL"
+    [TACTICAL_GEAR]="Git Linux VSCode"
 )
 
-echo "[*] System Status: Coding..."
-echo "[*] Coffee Level: Maximum"
-echo "[*] Stack Overflow Tabs: 47 open"
+# OPERATIONAL STATUS
+echo "[!] DEFCON 1: Active Deployment"
+echo "[!] Caffeine Protocol: ENGAGED"
+echo "[!] Sleep Status: OVERRIDDEN"
 ```
 
 ```bash
-┌──(andrew㉿github)-[~]
-└─$ tree skills/
+┌──(root㉿CLASSIFIED)-[/opt/arsenal]
+└─# ls -lah
 ```
 
-## `$ ls -la ~/skills/`
+## `# find /opt/arsenal -type f -executable`
 
 ```console
-drwxr-xr-x  5 andrew andrew 4096 Jan 06 2025 .
-drwxr-xr-x 12 andrew andrew 4096 Jan 06 2025 ..
+drwx------ 5 root root 4096 Jan 06 2025 .
+drwx------ 12 root root 4096 Jan 06 2025 ..
+-rw------- 1 root root   88 Jan 06 2025 .access_token
 
-[languages]
-  -rwxr-xr-x 1 andrew andrew  2048 Jan 05 2025 java.class
-  -rwxr-xr-x 1 andrew andrew  1024 Jan 05 2025 python.py
-  -rwxr-xr-x 1 andrew andrew  1536 Jan 05 2025 javascript.js
-  -rwxr-xr-x 1 andrew andrew  1792 Jan 05 2025 php.php
-  -rwxr-xr-x 1 andrew andrew   512 Jan 05 2025 html5.html
+[WEAPONS/LANGUAGES]
+  -rwx------ 1 root root  2048 Jan 05 2025 java.class        [LOADED]
+  -rwx------ 1 root root  1024 Jan 05 2025 python.py         [ARMED]
+  -rwx------ 1 root root  1536 Jan 05 2025 javascript.js     [READY]
+  -rwx------ 1 root root  1792 Jan 05 2025 php.php           [STANDBY]
+  -rwx------ 1 root root   512 Jan 05 2025 html5.html        [ACTIVE]
 
-[frameworks]
-  drwxr-xr-x 2 andrew andrew 4096 Jan 05 2025 laravel/
-  drwxr-xr-x 2 andrew andrew 4096 Jan 05 2025 nodejs/
-  drwxr-xr-x 2 andrew andrew 4096 Jan 05 2025 tailwindcss/
+[FRAMEWORKS/EXPLOITS]
+  drwx------ 2 root root 4096 Jan 05 2025 laravel/          [DEPLOYED]
+  drwx------ 2 root root 4096 Jan 05 2025 nodejs/           [RUNNING]
+  drwx------ 2 root root 4096 Jan 05 2025 tailwindcss/      [ENGAGED]
 
-[databases]
-  -rwxr-xr-x 1 andrew andrew  3072 Jan 05 2025 mysql.sql
+[INTELLIGENCE/DATABASES]
+  -rwx------ 1 root root  3072 Jan 05 2025 mysql.sql        [ENCRYPTED]
 
-[tools]
-  -rwxr-xr-x 1 andrew andrew  4096 Jan 05 2025 git
-  -rwxr-xr-x 1 andrew andrew  8192 Jan 05 2025 linux
-  -rwxr-xr-x 1 andrew andrew  2048 Jan 05 2025 vscode
+[TACTICAL/TOOLS]
+  -rwx------ 1 root root  4096 Jan 05 2025 git              [STEALTH MODE]
+  -rwx------ 1 root root  8192 Jan 05 2025 linux            [ROOT ACCESS]
+  -rwx------ 1 root root  2048 Jan 05 2025 vscode           [INTERFACE]
 ```
 
 ```bash
-┌──(andrew㉿github)-[~]
-└─$ cat tech_stack.conf
+┌──(root㉿CLASSIFIED)-[~]
+└─# cat /etc/badges.conf
 ```
 
-## `$ grep -r "technologies" ~/.config/`
+## `# grep -r "CAPABILITIES" /root/.arsenal/`
 
 <div align="center">
 
@@ -110,36 +125,39 @@ drwxr-xr-x 12 andrew andrew 4096 Jan 06 2025 ..
 </div>
 
 ```bash
-┌──(andrew㉿github)-[~]
-└─$ systemctl status coding.service
+┌──(root㉿CLASSIFIED)-[~]
+└─# systemctl status --all | grep andrew
 ```
 
-## `$ ps aux | grep -i "current_activity"`
+## `# ps -aux --forest | grep "CRITICAL"`
 
 ```log
-USER       PID  %CPU %MEM    TIME COMMAND
-andrew    1337  99.9  85.0   24/7 /usr/bin/coding --project=UsapTayo
-andrew    1338   5.2  10.5   ∞    /usr/bin/learning --mode=penetration-testing
-andrew    1339   3.1   8.2   ∞    /usr/bin/stackoverflow --tabs=47
-andrew    1340   0.5   2.1   ∞    /usr/bin/coffee --level=maximum
+UID        PID  %CPU %MEM    VSZ   RSS TTY   STAT START   TIME COMMAND
+root      1337  99.9  85.0 999999 85000 pts/0 Sl   00:00  24/7 \_ /opt/mission/UsapTayo --priority=CRITICAL
+root      1338  15.2  20.5 777777 20500 pts/1 Sl   00:00    ∞  \_ /usr/bin/training --module=penetration --level=advanced
+root      1339  10.1  15.2 666666 15200 pts/2 Sl   00:00    ∞  \_ /usr/bin/research --mode=deep-dive --threads=max
+root      1340   5.5  10.1 555555 10100 pts/3 Sl   00:00    ∞  \_ /usr/bin/caffeine --dosage=lethal --loop=infinite
+root      1341   0.1   2.5 111111  2500 pts/4 S    00:00    ∞  \_ /usr/bin/vim --mode=god
 
-[INFO] All processes running smoothly
-[INFO] No errors detected
-[INFO] Stack Overflow connection: STABLE
+[ALERT] All systems operational
+[ALERT] Zero vulnerabilities detected
+[ALERT] Network: SECURE
+[ALERT] Production: DOMINATED
 ```
 
 ```bash
-┌──(andrew㉿github)-[~]
-└─$ ./establish_connection.sh
+┌──(root㉿CLASSIFIED)-[~]
+└─# ./initiate_contact.sh --secure
 ```
 
-## `$ netstat -an | grep ESTABLISHED`
+## `# netstat -tupln | grep "DANGEROUS"`
 
 <div align="center">
 
 ```bash
-tcp    0    0  andrew@github:443  ->  linkedin.com:443     ESTABLISHED
-tcp    0    0  andrew@github:443  ->  github.com:443       ESTABLISHED
+tcp    0    0  CLASSIFIED:443    ->  linkedin.com:443       ESTABLISHED  [ENCRYPTED]
+tcp    0    0  CLASSIFIED:443    ->  github.com:443         ESTABLISHED  [SECURE]
+tcp    0    0  127.0.0.1:1337    ->  localhost:31337        LISTENING    [BACKDOOR]
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewlacambra)
@@ -152,8 +170,26 @@ tcp    0    0  andrew@github:443  ->  github.com:443       ESTABLISHED
 <div align="center">
 
 ```bash
-┌──(root㉿github)-[~]
-└─# echo "Talk is cheap. Show me the code." - Linus Torvalds
+┌──(root㉿CLASSIFIED)-[~]
+└─# cat /var/log/final.log
+```
+
+```log
+[2025-01-06 23:59:59] SYSTEM INITIALIZED
+[2025-01-06 23:59:59] ROOT ACCESS GRANTED
+[2025-01-06 23:59:59] DEPLOYING PAYLOAD...
+[2025-01-06 23:59:59] INJECTION SUCCESSFUL
+[2025-01-06 23:59:59] ALL SYSTEMS COMPROMISED
+[2025-01-06 23:59:59] MISSION STATUS: ONGOING
+```
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+█ CLASSIFIED // MORIARTY OPERATIONS                                       █
+█ ACCESS LEVEL: ROOT                                                      █
+█ ENCRYPTION: AES-256                                                     █
+█ STATUS: OPERATIONAL                                                     █
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
 </div>
