@@ -1,142 +1,121 @@
 <img width="100%" src="https://github.com/CodeByMoriarty/CodeByMoriarty/blob/main/github-header-image.png" alt="my banner">
 
-<div align="center">
-
-### 👨‍💻 I'm a Pull Stack Developer 
-*I just pull things off the Internet and put it into my Code.* 😄
-
-![Profile Views](https://komarev.com/ghpvc/?username=CodeByMoriarty&style=for-the-badge&color=ff69b4)
-
-</div>
-
-<br>
-
-## 🎯 About Me
-
-```javascript
-const andrew = {
-    currentProject: "UsapTayo",
-    learning: ["Java", "Python", "Web Penetration Testing"],
-    funFact: "I turn Stack Overflow answers into production code!",
-    askMeAbout: ["Web Dev", "Backend", "Security"],
-    technologies: {
-        backend: ["PHP", "Laravel", "Node.js", "Python"],
-        frontend: ["JavaScript", "HTML5", "TailwindCSS"],
-        database: ["MySQL"],
-        tools: ["Git", "Linux"]
-    }
-};
+```ascii
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   > I'm a Pull Stack Developer                                           ║
+║   > I just pull things off the Internet and put it into my Code.         ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-<br>
-
-## 🛠️ Technology Arsenal
-
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br>Java
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br>Python
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-<br>PHP
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br>HTML5
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-<br>Laravel
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br>Tailwind
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br>Node.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br>Linux
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br>VS Code
-</td>
-</tr>
-</table>
+![Profile Views](https://komarev.com/ghpvc/?username=CodeByMoriarty&style=flat-square&color=green)
 
 </div>
 
-<br>
+## `$ whoami`
 
-## 📊 GitHub Statistics
+```bash
+andrew@github:~$ cat about.txt
+```
+
+```yaml
+name: Andrew Lacambra
+role: Full Stack Developer
+location: /dev/world
+current_project: UsapTayo
+learning: 
+  - Java
+  - Python
+  - Web Penetration Testing
+skills:
+  languages: [Java, Python, JavaScript, PHP, HTML5]
+  frameworks: [Laravel, Node.js, TailwindCSS]
+  databases: [MySQL]
+  tools: [Git, Linux, VS Code]
+status: Coding...
+```
+
+## `$ ls skills/`
+
+```
+📁 languages/
+├── java.class
+├── python.py
+├── javascript.js
+├── php.php
+└── html5.html
+
+📁 frameworks/
+├── laravel/
+├── nodejs/
+└── tailwindcss/
+
+📁 databases/
+└── mysql.sql
+
+📁 tools/
+├── git
+├── linux
+└── vscode
+```
+
+## `$ cat tech_stack.sh`
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CodeByMoriarty&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByMoriarty&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMoriarty&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByMoriarty&theme=high-contrast&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Contribution Graph"/>
-</div>
-
-<br>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeByMoriarty&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
-
-<br>
-
-## 🌐 Connect With Me
+## `$ git log --stat`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewlacambra)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeByMoriarty)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrewlacambra@email.com)
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=CodeByMoriarty&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=8" />
+<img width="48%" src="https://streak-stats.demolab.com?user=CodeByMoriarty&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=8" />
+
+<img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMoriarty&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8&langs_count=10" />
 
 </div>
 
-<br>
+## `$ ./connect.sh`
 
 <div align="center">
 
-### 💭 Developer Quote
+```bash
+┌─[andrew@github]─[~]
+└──╼ $ echo "Let's connect!"
+```
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewlacambra)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CodeByMoriarty)
+
+</div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<div align="center">
 
-**"Code is like humor. When you have to explain it, it's bad."** - *Cory House*
+```
+[root@github ~]# echo "Talk is cheap. Show me the code." - Linus Torvalds
+```
+
+<sub>⚡ Powered by caffeine and Stack Overflow</sub>
 
 </div>
