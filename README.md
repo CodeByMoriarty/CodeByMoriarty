@@ -1,4 +1,4 @@
-<!-- <img width="100%" src="https://github.com/CodeByMoriarty/CodeByMoriarty/blob/main/github-header-image.png" alt="my banner">
+<img width="100%" src="https://github.com/CodeByMoriarty/CodeByMoriarty/blob/main/github-header-image.png" alt="my banner">
 
 ```ascii
 ╔═════════════════════════════════════════════════════════════════════════════╗
@@ -142,4 +142,4 @@ tcp    0    0  andrew@github:443  ->  github.com:443       ESTABLISHED
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewlacambra)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CodeByMoriarty)
 
-</div> -->
+</div>
